@@ -7,7 +7,7 @@ Author: Guillaume T Vallet
 Maintainer: Guillaume T Vallet guillaume.vallet@uqtr.ca
 Description: Compute the total score on 100, add grades, display the results by student and by question
 Depends:
-    R (>= 4.1.0),
+    R (>= 4.0.0),
     ggplot2,
     tidyr,
     DT,
