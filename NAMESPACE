@@ -1,0 +1,2 @@
+export("final", "getNotes", "grades", "notes", "pcent", "plotByQuest", "plotByQuestPcent", "pointsMax", "question", "questions",
+       "scores", "statExam", "statQuestions")

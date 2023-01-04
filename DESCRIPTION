@@ -1,0 +1,15 @@
+Package: examstat
+Type: Package
+Title: A simple package to process the courses evaluation at UQTR
+Version: 1.0
+Date: 2022-12-20
+Author: Guillaume T Vallet
+Maintainer: Guillaume T Vallet guillaume.vallet@uqtr.ca
+Description: Compute the total score on 100, add grades, display the results by student and by question
+Depends:
+    R (>= 4.1.0),
+    tidyverse
+    DT
+    plotly
+License: CC-BY-NC-SA
+RoxygenNote: 7.2.3
