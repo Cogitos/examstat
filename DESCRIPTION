@@ -8,8 +8,9 @@ Maintainer: Guillaume T Vallet guillaume.vallet@uqtr.ca
 Description: Compute the total score on 100, add grades, display the results by student and by question
 Depends:
     R (>= 4.1.0),
-    tidyverse
-    DT
+    ggplot2,
+    tidyr,
+    DT,
     plotly
 License: CC-BY-NC-SA
 RoxygenNote: 7.2.3
