@@ -19,6 +19,6 @@ function(dt, note="Note", exam=NULL){
       ET = sd(!!as.name(note), na.rm=T),
       Min = min(!!as.name(note), na.rm=T),
       Max = max(!!as.name(note), na.rm=T)
-    ) %>% ``
+    ) %>% 
     mutate_if(is.numeric, round, 2)
 }

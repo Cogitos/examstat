@@ -1,24 +1,24 @@
-\name{exams-package}
-\alias{exams-package}
-\alias{exams}
+\name{examstat-package}
+\alias{examstat-package}
+\alias{examstat}
 \docType{package}
 \title{
-\packageTitle{exams}
+\packageTitle{examstat}
 }
 \description{
-\packageDescription{exams}
+\packageDescription{examstat}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{exams}
-\packageIndices{exams}
+\packageDESCRIPTION{examstat}
+\packageIndices{examstat}
 ~~ An overview of how to use the package, including the most important functions ~~
 }
 \author{
-\packageAuthor{exams}
+\packageAuthor{examstat}
 
-Maintainer: \packageMaintainer{exams}
+Maintainer: \packageMaintainer{examstat}
 }
 \references{
 ~~ Literature or other references for background information ~~

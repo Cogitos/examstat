@@ -3,14 +3,15 @@ Type: Package
 Title: A simple package to process the courses evaluation at UQTR
 Version: 1.0
 Date: 2022-12-20
-Author: Guillaume T Vallet
-Maintainer: Guillaume T Vallet guillaume.vallet@uqtr.ca
-Description: Compute the total score on 100, add grades, display the results by student and by question
+Encoding: UTF-8
+Author: "Guillaume T Vallet [aut, cre]"
+Maintainer: Guillaume T Vallet <guillaume.vallet@uqtr.ca>
+Description: Compute the total score on 100, add grades, display the results by student and by question.
 Depends:
-    R (>= 4.0.0),
+    R (>= 3.9.0),
     ggplot2,
     tidyr,
     DT,
     plotly
 License: CC-BY-NC-SA
-RoxygenNote: 7.2.3
+RoxygenNote: 7.2.1
